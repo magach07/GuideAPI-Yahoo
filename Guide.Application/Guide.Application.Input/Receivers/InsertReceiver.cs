@@ -18,7 +18,7 @@ namespace Guide.Application.Input.Receivers
             {
                 foreach (var iten in entity)
                 {
-                    var petr4 = new YahooFinanceEntity(iten.Date, iten.Value, iten.VariationPreviousDate, iten.VariationFirstDate);
+                    var action = new YahooFinanceEntity(iten.Date, iten.Value, iten.VariationPreviousDate, iten.VariationFirstDate);
                     _inputRepository.InsertYahooFinance(iten);
                 }
                 
