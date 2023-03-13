@@ -1,0 +1,135 @@
+[
+    {
+      "dia": 1,
+      "date": "13/02/2023",
+      "value": "R$12.86",
+      "variationPreviousDate": "0%",
+      "variationFirstDate": "0%"
+    },
+    {
+      "dia": 2,
+      "date": "14/02/2023",
+      "value": "R$13.15",
+      "variationPreviousDate": "2.26%",
+      "variationFirstDate": "2.26%"
+    },
+    {
+      "dia": 3,
+      "date": "15/02/2023",
+      "value": "R$12.99",
+      "variationPreviousDate": "-1.22%",
+      "variationFirstDate": "1.01%"
+    },
+    {
+      "dia": 4,
+      "date": "16/02/2023",
+      "value": "R$13.25",
+      "variationPreviousDate": "2%",
+      "variationFirstDate": "3.03%"
+    },
+    {
+      "dia": 5,
+      "date": "17/02/2023",
+      "value": "R$13.04",
+      "variationPreviousDate": "-1.58%",
+      "variationFirstDate": "1.4%"
+    },
+    {
+      "dia": 6,
+      "date": "22/02/2023",
+      "value": "R$13.05",
+      "variationPreviousDate": "0.08%",
+      "variationFirstDate": "1.48%"
+    },
+    {
+      "dia": 7,
+      "date": "23/02/2023",
+      "value": "R$13.21",
+      "variationPreviousDate": "1.23%",
+      "variationFirstDate": "2.72%"
+    },
+    {
+      "dia": 8,
+      "date": "24/02/2023",
+      "value": "R$13.22",
+      "variationPreviousDate": "0.08%",
+      "variationFirstDate": "2.8%"
+    },
+    {
+      "dia": 9,
+      "date": "27/02/2023",
+      "value": "R$13.38",
+      "variationPreviousDate": "1.21%",
+      "variationFirstDate": "4.04%"
+    },
+    {
+      "dia": 10,
+      "date": "28/02/2023",
+      "value": "R$13.43",
+      "variationPreviousDate": "0.37%",
+      "variationFirstDate": "4.43%"
+    },
+    {
+      "dia": 11,
+      "date": "01/03/2023",
+      "value": "R$13.42",
+      "variationPreviousDate": "-0.07%",
+      "variationFirstDate": "4.35%"
+    },
+    {
+      "dia": 12,
+      "date": "02/03/2023",
+      "value": "R$13.47",
+      "variationPreviousDate": "0.37%",
+      "variationFirstDate": "4.74%"
+    },
+    {
+      "dia": 13,
+      "date": "03/03/2023",
+      "value": "R$13.12",
+      "variationPreviousDate": "-2.6%",
+      "variationFirstDate": "2.02%"
+    },
+    {
+      "dia": 14,
+      "date": "06/03/2023",
+      "value": "R$13.18",
+      "variationPreviousDate": "0.46%",
+      "variationFirstDate": "2.49%"
+    },
+    {
+      "dia": 15,
+      "date": "07/03/2023",
+      "value": "R$13.47",
+      "variationPreviousDate": "2.2%",
+      "variationFirstDate": "4.74%"
+    },
+    {
+      "dia": 16,
+      "date": "08/03/2023",
+      "value": "R$13.4",
+      "variationPreviousDate": "-0.52%",
+      "variationFirstDate": "4.2%"
+    },
+    {
+      "dia": 17,
+      "date": "09/03/2023",
+      "value": "R$13.56",
+      "variationPreviousDate": "1.19%",
+      "variationFirstDate": "5.44%"
+    },
+    {
+      "dia": 18,
+      "date": "10/03/2023",
+      "value": "R$13.52",
+      "variationPreviousDate": "-0.29%",
+      "variationFirstDate": "5.13%"
+    },
+    {
+      "dia": 19,
+      "date": "13/03/2023",
+      "value": "R$13.5",
+      "variationPreviousDate": "-0.15%",
+      "variationFirstDate": "4.98%"
+    }
+  ]
