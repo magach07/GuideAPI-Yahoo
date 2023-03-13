@@ -8,7 +8,7 @@ namespace Guide.Infrastructure.Shared.Services
     {
         public async Task<string> GetAllYahoFinance()
         {
-            string yahooFinance = "https://query2.finance.yahoo.com/v8/finance/chart/ABEV3.SA?symbol=PETR4.SA&period1=1676289600&period2=9999999999&interval=1d";
+            string yahooFinance = "https://query2.finance.yahoo.com/v8/finance/chart/ABEV3.SA?symbol=ABEV3.SA&period1=1676289600&period2=9999999999&interval=1d";
 
             var httpClient = new HttpClient();
 
