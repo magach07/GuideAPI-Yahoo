@@ -1,6 +1,6 @@
 * LINK YAHOO FINANCE UTILIZADO PARA ACESSAR OS DADOS *
 
-https://query1.finance.yahoo.com/v8/finance/chart/ABEV3.SA?symbol=PETR4.SA&period1=1676289600&period2=9999999999&interval=1d
+https://query1.finance.yahoo.com/v8/finance/chart/ABEV3.SA?symbol=ABEV3.SA&period1=1676289600&period2=9999999999&interval=1d
 - Período inicial: 13/02/2023
 - Período final: 13/03/2023
 - Intervalo: 1 dia (abertura)
@@ -49,6 +49,6 @@ Para utilizar as API's deverá ser utilizado alguma ferramente para requisiçõe
 Após executar o programa com o comando 'dotnet run', uma porta local será apresentada a você.
 Concatene essa porta local ao caminho da API e assim os dados serão retornados.
 
-Exemplo: https://localhost:7078/YahooFinance/PETR4/Historic30Days/
+Exemplo: https://localhost:7078/YahooFinance/abev3/Historic30Days/
 
 - Na raiz do projeto existe um arquivo chamado 'Historico30Dias', e nele está um modelo de retorno da api '/YahooFinance/ABEV3/GetHistorico30Dias/', com os dados manipulados conforme solicitado no escopo projeto.
