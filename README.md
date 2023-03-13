@@ -34,7 +34,7 @@ GO
 
 (GET) '/YahooFinance/ABEV3/GetInformations/' - API que consume os dados do Yahoo Finance, nos retornando o JSON que será usado para inserir as informações na base de dados.
 (POST) '/YahooFinance/ABEV3/InsertInformations/' - Insere as informações retornadas pelo JSON na base de dados.
-(GET) '/YahooFinance/ABEV3/GetHistorico30Dias/' - API que busca os dados no banco de dados e nos retorna as informações sobre as variações do PETR4 dos útlimos 30 dias de modo formatado.
+(GET) '/YahooFinance/ABEV3/GetHistorico30Dias/' - API que busca os dados no banco de dados e nos retorna as informações sobre as variações do ABEV3 dos útlimos 30 dias de modo formatado.
 
 - Id: Identity, auto-incremental pelo banco de dados.
 - Date: Data analisada.
